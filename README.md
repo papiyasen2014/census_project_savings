@@ -8,4 +8,4 @@ obtained can help companies, government, non-profits develop programs to identif
 The datasets are in 'Data' folder. Download the two csv files to the same directory from where the Python notebook will be run.
 Python notebook is in 'src' folder.
 
-Summary of results, insights and challenges is in file "......"
+Summary of results, insights and challenges is in file 'Report.pdf'
