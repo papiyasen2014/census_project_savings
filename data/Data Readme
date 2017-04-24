@@ -8,3 +8,5 @@ The archive contains three files:
 1. A large learning .csv file
 2. Another test .csv file
 3. A metadata file describing the columns of the two above mentioned files (identical for both)
+
+Missing entries are marked as ' ?' is the file. This is handled in the python code. 
